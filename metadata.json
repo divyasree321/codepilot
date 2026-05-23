@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: CodePilot AI",
+  "description": "An AI-powered Code Review Assistant that analyzes GitHub repositories or Pull Requests to detect bugs, security vulnerabilities, performance issues, and code smells, providing actionable suggestions and an AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
